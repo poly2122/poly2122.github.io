@@ -17,7 +17,25 @@
       <pubDate>Sun, 26 Apr 2020 17:35:04 +0800</pubDate>
       
       <guid>http://example.org/posts/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%B7t/</guid>
-      <description>大家好 今天完成了我的第一篇博客，内心很骄傲。</description>
+      <description>大家好 今天完成了我的第一篇博客，内心很骄傲。hahh</description>
+    </item>
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 26 Apr 2020 17:35:04 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>这个网站做了好久 花了太多时间了</description>
+    </item>
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>http://example.org/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 26 Apr 2020 17:33:19 +0800</pubDate>
+      
+      <guid>http://example.org/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>这个网站做了好久 花了太多时间了</description>
     </item>
     
   </channel>
